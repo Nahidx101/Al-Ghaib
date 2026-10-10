@@ -11,7 +11,7 @@ The tablet is a risk. While you look at it, Zayd is frozen and can't aim his lig
 
 ## Status
 
-Mission 1 is playable. Mission 2 (Nafis's lab) is planned.
+Mission 1 is almost playable. Cave design is still remaining.
 
 ## Controls
 
