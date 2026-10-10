@@ -50,7 +50,7 @@ The message grid is inspired by the 1974 Arecibo message (Cornell University / N
 ## Credits
 
 - **Team:** baybarz
-- **Engine:** Godot [version]
+- **Engine:** Godot 4
 - **Pod, sample and signal beacon art:** generated with gemini, then edited by the team
 - **Portraits:** comic-style portraits made from photos of team members, used with their permission
 
