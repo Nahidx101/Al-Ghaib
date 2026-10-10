@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://dovqg6p23surc"
+
+[deps]
+
+files=["res://nasa_telemetry.corrupted.translation", "res://nasa_telemetry.override.translation"]
+
+source_file="res://nasa_telemetry.csv"
+dest_files=["res://nasa_telemetry.corrupted.translation", "res://nasa_telemetry.override.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true
